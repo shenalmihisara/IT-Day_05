@@ -46,9 +46,24 @@ switch(day){
         console.log("invalid day");
 }*/
 
-function add(x, y){
+/*function add(x, y){
     return x + y;
 }
 
 let results = add(10, 20);
-console.log(results);
+console.log(results);*/
+
+/*let numbers = [1,"saman",2,"nimal",3,"kamal",4,5];
+
+for(let i = 0; i<numbers.length; i++){
+    console.log(numbers[i]);
+}*/
+
+let customer = {
+    name: "Saman",
+    age: 18,
+    isAfterAL: false,
+    salary: 7500.0
+}
+
+console.log(customer);
